@@ -1,4 +1,4 @@
-package com.java1;
+package com.prog1;
 
 public class Main {
 
